@@ -1,0 +1,33 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+}
+
+h3.center {
+    margin-bottom: 20px;
+}
+
+#sawano {
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 100%;
+}
+
+#sawano img{
+    width: 60%;
+}
+
+#sawano li {
+    text-align: left;
+    margin-top: 10px;
+}
